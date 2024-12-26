@@ -1,4 +1,4 @@
-package com.example.educationalprojects;
+package com.example.educationalprojects.mineSweeper;
 
 import java.util.Random;
 import java.util.Scanner;

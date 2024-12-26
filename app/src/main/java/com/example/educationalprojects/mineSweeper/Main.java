@@ -1,4 +1,4 @@
-package com.example.educationalprojects;
+package com.example.educationalprojects.mineSweeper;
 
 
 public class Main {
